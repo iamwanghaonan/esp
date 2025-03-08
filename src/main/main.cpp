@@ -14,7 +14,7 @@ using namespace websockets;
 WiFiClient client;
 // MySQL database credentials
 char *db_user = "root";            // 数据库用户名
-char *db_password = "Mouse1121332661!"; // 数据库密码
+char *db_password = "************"; // 数据库密码
 const char *db_name = "memory";    // 数据库名
 const char* db_host = "sh-cdb-lgll25s2.sql.tencentcdb.com";  // 新的数据库地址
 int db_port = 24902;               // 新的数据库端口
